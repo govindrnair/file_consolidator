@@ -2,7 +2,7 @@ from pathlib import Path
 import re
 import shutil
 #--------------------------------------------------------#
-# Change to match your requirement
+# Variable - Change to match your requirement
 #--------------------------------------------------------#
 # Matches "26. MusicPlayer App - MediaPlayer , Read from Local Storage & Interface"
 # Returns "26" and "MusicPlayer App - MediaPlayer , Read from Local Storage & Interface"
